@@ -1,6 +1,6 @@
 ---
 name: moodle-courses
-description: Create, migrate, edit, and audit Moodle or СЭО 3KL courses, including Word material formatted as HTML inside native Lesson activities with embedded questions, scoring, and navigation.
+description: Create, migrate, edit, and audit Moodle or СЭО 3KL courses, including native Lessons, quizzes, file-based Assignments, grading, and navigation.
 ---
 
 # Moodle courses
@@ -21,7 +21,7 @@ Keep a task-local manifest of observed course/activity/page URLs, original title
 
 ## Authoring
 
-Read [Lesson workflow](references/lesson-workflow.md) for authoring, imports, HTML, images, and navigation details. For comprehensive testing, read [Course audit](references/audit.md).
+Read [Lesson workflow](references/lesson-workflow.md) for authoring, imports, HTML, images, and navigation details. For file-based student submissions, read [Assignment workflow](references/assignments.md). For comprehensive testing, read [Course audit](references/audit.md).
 
 Use semantic HTML with readable headings, paragraphs, lists, and restrained inline styles. Preserve meaning, tables, and illustrations. Compress bitmap images to practical web dimensions before embedding; large base64 HTML can break the browser-control connection. Do not claim complete image fidelity after checking only text.
 
