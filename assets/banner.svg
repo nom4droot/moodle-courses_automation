@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+  <title id="title">Moodle Courses</title>
+  <desc id="desc">Native lessons, clear content, verified flow</desc>
+  <rect width="1200" height="330" rx="24" fill="#0f172a"/>
+  <circle cx="1120" cy="0" r="250" fill="#172554"/>
+  <path d="M840 130h80v80h80" fill="none" stroke="#60a5fa" stroke-width="4"/>
+  <rect x="790" y="84" width="110" height="90" rx="14" fill="#1e40af"/>
+  <path d="M814 110h60m-60 18h44m-44 18h52" stroke="#dbeafe" stroke-width="5"/>
+  <rect x="960" y="164" width="110" height="90" rx="14" fill="#2563eb"/>
+  <path d="m990 207 15 15 32-36" fill="none" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="64" y="92" fill="#93c5fd" font-family="Arial,sans-serif" font-size="16" letter-spacing="4">A CODEX SKILL</text>
+  <text x="60" y="169" fill="white" font-family="Arial,sans-serif" font-size="62" font-weight="700">Moodle Courses</text>
+  <text x="64" y="220" fill="#cbd5e1" font-family="Arial,sans-serif" font-size="23">Native lessons · Clear content · Verified flow</text>
+  <text x="64" y="275" fill="#60a5fa" font-family="Arial,sans-serif" font-size="16">MOODLE / СЭО 3KL</text>
+</svg>
